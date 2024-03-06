@@ -3,11 +3,12 @@ from docx import Document
 from docx.shared import Cm
 from collections.abc import Sequence  # Import Sequence from collections.abc
 
-png_listesi = ["Missing_value.png", "Age_count.png", "Age_salary.png", "Occupation_salary.png",
-               "Age_occupation_salary.png", "Age_occupation_salary_min.png", "Age_distribution.png",
-               "Age_density.png", "Salary_distribution.png", "Salary_density.png", "Count_occupation.png",
-               "Montly_salary_amount.png", "Heatmap.png", "Pairplot.png", "Displot_salary.png",
-               "Displot_delay.png", "Displot_credit.png"]
+
+png_listesi = ["images/Missing_value.png", "images/Age_count.png", "images/Age_salary.png", "images/Occupation_salary.png",
+               "images/Age_occupation_salary.png", "images/Age_occupation_salary_min.png", "images/Age_distribution.png",
+               "images/Age_density.png", "images/Salary_distribution.png", "images/Salary_density.png", "images/Count_occupation.png",
+               "images/Montly_salary_amount.png", "images/Heatmap.png", "images/Pairplot.png", "images/Displot_salary.png",
+               "images/Displot_delay.png", "images/Displot_credit.png"]
 
 baslik_listesi = ["Missing Values Heatmap", "Age Count", "Age Salary", "Occupation Salary",
                   "Age Occupation Salary Max", "Age Occupation Salary Min", "Age Distribution",
