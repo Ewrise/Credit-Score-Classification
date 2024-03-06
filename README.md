@@ -34,7 +34,8 @@ Visualize and present prediction results from the classification model using cre
 
 ### ⚙️ Model Usage
 ### 📌Download the Dataset:
-Download the credit scoring dataset and store it in an appropriate format, such as a CSV file. Link: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+Download the credit scoring dataset and store it in an appropriate format, such as a CSV file. 
+Link: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 ### 📌Install Required Libraries:
 Install necessary Python libraries for the project to function properly. Required libraries are listed in the project's requirements.txt section.
