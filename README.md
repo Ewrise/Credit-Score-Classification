@@ -45,7 +45,7 @@ Clone the GitHub repository or download and extract the ZIP file. You can find t
 ### 📌Examine Model Performance:
 After successfully running the project files, examine the model's performance metrics and visualizations to evaluate its effectiveness in credit score classification.
 
-![Age_salary](https://github.com/selinolgun/Credit-Score-Classification/assets/126022358/32e9b688-c226-4820-b366-a1478603f791)
+![confusion_matrix](https://github.com/Ewrise/Credit-Score-Classification/assets/122156367/a06c6205-4149-4ace-b874-6df896ba965d)
 
 ### 📊 About the Dataset
 The dataset used in this project contains information about individuals, including features such as income, age, credit amount, and payment history.
